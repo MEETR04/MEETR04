@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://meetr04.github.io/MeetRasaniaPortfolio2024/])
 
-- 💬 Ask me about **Flutter, Android Development, UI/UX**
+- 💬 Ask me about **Flutter, Mobile Application Development, UI/UX**
 
 - 📫 How to reach me **meetrasania132@gmail.com**
 
