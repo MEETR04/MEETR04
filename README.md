@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter Bloc State Management Library**
 
-- 👨‍💻 All of my projects are available at [https://meetr04.github.io/Meet-Portfolio/](https://meetr04.github.io/Meet-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://meetr04.github.io/MeetRasaniaPortfolio2024/])
 
 - 💬 Ask me about **Flutter, Android Development, UI/UX**
 
