@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **meetrasania132@gmail.com**
 
-- 📄 Know about my experiences [https://meetr04.github.io/Meet-Portfolio/cv/Meet%20Rasania%20CV.pdf](https://meetr04.github.io/Meet-Portfolio/cv/Meet%20Rasania%20CV.pdf)
+- 📄 Know about my experiences [https://meetr04.github.io/Meet-Portfolio/cv/Meet%20Rasania%20CV.pdf](https://meetr04.github.io/MeetRasaniaPortfolio2024/cv/MeetRasaniaRESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
